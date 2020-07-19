@@ -1,0 +1,42 @@
+
+.jumbotron{
+    font-weight: bolder;
+    background-position: top ;
+    color:white;
+    font-weight: bold;
+    
+}
+.navbar{
+    background-color: darkviolet;
+    font-family: Arial;
+    font-weight: bolder;
+}
+#home{
+    color: tomato;
+	font-size: 25 px;
+}
+#home:hover{
+    color: burlywood;
+}
+
+#home2{
+    color: black;
+}
+#home2:hover{
+    color: burlywood;
+}
+.dropdown-menu{
+    background-color: rgb(144, 29, 194);            
+}
+
+.dropdown-item{
+    color:black;
+}
+.dropdown-item:hover{
+    color:burlywood;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block; 
+  }
+
+
